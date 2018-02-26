@@ -401,7 +401,7 @@
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
-    "spaceBetweenAmountAndSymbol": false,
+    "spaceBetweenAmountAndSymbol": true,
     "decimalDigits": 2
   },
   "FJD": {
