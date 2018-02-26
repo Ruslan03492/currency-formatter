@@ -398,10 +398,10 @@
   "EUR": {
     "code": "EUR",
     "symbol": "€",
-    "thousandsSeparator": " ",
-    "decimalSeparator": ",",
-    "symbolOnLeft": false,
-    "spaceBetweenAmountAndSymbol": true,
+    "thousandsSeparator": ",",
+    "decimalSeparator": ".",
+    "symbolOnLeft": true,
+    "spaceBetweenAmountAndSymbol": false,
     "decimalDigits": 2
   },
   "FJD": {
